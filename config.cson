@@ -1,0 +1,32 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "b5e802fd-e85d-471d-86cf-4cc792f1563a"
+      beautifyEntireFileOnSave: false
+    html:
+      wrap_attributes: "force"
+  core:
+    disabledPackages: [
+      "linter-xo"
+      "jshint"
+      "linter-jshint"
+      "symbols-view"
+      "sync-settings"
+    ]
+  editor:
+    fontSize: 15
+  "exception-reporting":
+    userId: "449293be-8281-8213-3a11-bd1799db321f"
+  jshint:
+    onlyConfig: true
+  linter:
+    errorPanelHeight: 26
+  "linter-jshint":
+    disableWhenNoJshintrcFileInPath: true
+  "sync-settings":
+    _analyticsUserId: "628ea47c-4a85-4d80-a358-0541302a17a5"
+    _lastBackupHash: "252c5ac839d53883248e4409a8e125fea9fba9f7"
+    gistId: "91724732cf28f41158ed9dfa026c68b9"
+    personalAccessToken: "d0a708e16079139f3265bc691c5744ece2545df4"
+  welcome:
+    showOnStartup: false
