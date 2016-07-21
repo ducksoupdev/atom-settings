@@ -12,6 +12,7 @@ packages: [
   "file-icons"
   "highlight-line"
   "javascript-snippets"
+  "js-refactor"
   "language-powershell"
   "linter"
   "linter-csslint"
@@ -27,5 +28,6 @@ packages: [
   "open-recent"
   "package-sync"
   "project-manager"
+  "refactor"
   "silverstripe-bundle"
 ]
