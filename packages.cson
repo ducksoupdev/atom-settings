@@ -3,6 +3,7 @@ packages: [
   "angular-2-typeScript-snippets"
   "angularjs"
   "angularjs-styleguide-snippets"
+  "atom-beautify"
   "atom-handlebars"
   "atom-silverstripe"
   "atom-ternjs"
